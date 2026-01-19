@@ -1,1 +1,0 @@
-Dataset base organizado por sujeto (28 sujetos). Contiene los .mat originales y/o estructurados para MI: señales continuas (cnt), marcadores (mrk), montajes (mnt) y archivos asociados a artefactos (cuando aplique). Es la fuente de datos para todo el pipeline.
