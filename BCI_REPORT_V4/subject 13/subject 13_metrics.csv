@@ -1,0 +1,2 @@
+subject,n_test,thr_used,rejection_rate,coverage,acc_accept,ba_accept,acc_forced,ba_forced,ece,experts_kept
+subject 13,15,0.5633120881651494,0.2,0.8,0.75,0.75,0.7333333333333333,0.7232142857142857,0.13083645996147694,bag|svm|xgb|mlp

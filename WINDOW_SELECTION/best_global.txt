@@ -1,0 +1,2 @@
+Best global window idx 26: 16–19 s
+Mean acc = 0.578

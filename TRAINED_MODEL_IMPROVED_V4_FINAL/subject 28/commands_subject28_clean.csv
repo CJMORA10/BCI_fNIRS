@@ -1,0 +1,16 @@
+trial,true_label,pred_label,pred_name,cmd_for_unity,is_error
+0,2,2,left,2,0
+1,2,2,left,2,0
+2,1,1,right,1,0
+3,1,1,right,1,0
+4,2,2,left,2,0
+5,2,1,right,0,1
+6,1,1,right,1,0
+7,2,1,right,0,1
+8,1,0,idle,0,0
+9,1,1,right,1,0
+10,2,1,right,0,1
+11,1,1,right,1,0
+12,2,1,right,0,1
+13,1,1,right,1,0
+14,2,2,left,2,0

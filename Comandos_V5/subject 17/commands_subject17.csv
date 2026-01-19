@@ -1,0 +1,16 @@
+trial,true_label,pred_label,pred_name
+0,2,1,right
+1,2,2,left
+2,1,1,right
+3,1,1,right
+4,1,1,right
+5,2,2,left
+6,2,2,left
+7,1,1,right
+8,2,1,right
+9,2,2,left
+10,1,0,idle
+11,1,1,right
+12,2,1,right
+13,1,0,idle
+14,2,0,idle
